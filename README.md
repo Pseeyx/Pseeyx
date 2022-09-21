@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pseey&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
+### Random Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
