@@ -1,8 +1,4 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pseey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pseey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pseey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Random
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
